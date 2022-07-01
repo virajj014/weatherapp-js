@@ -8,7 +8,7 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: skyblue;
+    background-color: rgb(253, 219, 0);
 }
 
 .container {
@@ -54,6 +54,7 @@ button {
     border-radius: 40px;
     border: none;
     text-align: center;
+    background-color: rgb(253, 219, 0);
 }
 
 button:hover {
